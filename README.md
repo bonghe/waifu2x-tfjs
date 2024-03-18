@@ -10,7 +10,7 @@ Image Super-Resolution for Anime-style art using TensorFlow.js.
 ## How to use
 
 You can use it on the this page. 
-* [boundaryh/waifu2x-tfjs](https://boundaryh.github.io/waifu2x-tfjs/)
+* [boundaryh/waifu2x-tfjs](https://bonghe.github.io/waifu2x-tfjs/)
 
 It is recommended to use it on Google Chrome.
 
